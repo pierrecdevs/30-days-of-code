@@ -5,3 +5,5 @@ Starting off the series with Python, however, initially on the website I choose 
 To get started, simply select a branch and you'll have the language you need.
 
 PR's are welcomed
+
+## [Python](https://github.com/pierrecdevs/30-days-of-code/tree/python)
